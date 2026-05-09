@@ -1,0 +1,21 @@
+{
+  "name": "academic-notes-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.6.2",
+    "react-icons": "^4.12.0",
+    "react-hot-toast": "^2.4.1",
+    "react-dropzone": "^14.2.3",
+    "next-themes": "^0.2.1",
+    "date-fns": "^3.0.0"
+  }
+}
